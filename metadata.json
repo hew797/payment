@@ -1,0 +1,5 @@
+{
+  "name": "SaaS Admin Pro",
+  "description": "A comprehensive SaaS administration dashboard featuring subscription management, plan selection, and order tracking with simulated Alipay and WeChat Pay integrations.",
+  "requestFramePermissions": []
+}
